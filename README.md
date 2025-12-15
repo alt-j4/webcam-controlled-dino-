@@ -44,3 +44,25 @@ The project combines **game development** with **real-time image processing**, m
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/dino-webcam-game
+
+---
+
+  ## Install dependencies:
+
+pip install pygame opencv-python numpy
+
+
+---
+
+  ## Run the game:
+
+python main.py
+
+
+---
+
+TEAM MEMBERS:
+1. ANUSHKA BHATNAGAR
+2. TANUJ VATSA
+3. LAVANYA SHARMA
+4. JENITH SHARMA
