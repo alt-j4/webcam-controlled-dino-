@@ -61,8 +61,20 @@ python main.py
 
 ---
 
-TEAM MEMBERS:
+## GAMEPLAY VIDEO: 
+
+
+https://github.com/user-attachments/assets/63d8b6eb-1efa-461f-a5db-d0cdaa528c0a
+
+---
+
+## TEAM MEMBERS:
 1. ANUSHKA BHATNAGAR
 2. LAVANYA SHARMA
 3. TANUJ VATSA
 4. JENITH SHARMA
+
+
+---
+
+
